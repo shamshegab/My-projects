@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="courses.xsd">
+    <asda>
+        <course_name>'Programming'</course_name>
+        <course_id>'null'</course_id>
+        <credit_hours>4</credit_hours>
+    </asda>
+    <asda>
+        <course_name>'Programming'</course_name>
+        <course_id>'CS271'</course_id>
+        <credit_hours>0</credit_hours>
+    </asda>
+    <asda>
+        <course_name>'Programming'</course_name>
+        <course_id> 'null'</course_id>
+        <credit_hours>4</credit_hours>
+    </asda>
+    <asda>
+        <course_name>'Programming'</course_name>
+        <course_id>'null'</course_id>
+        <credit_hours>0</credit_hours>
+    </asda>
+    <asda>
+        <course_name>'null'</course_name>
+        <course_id>'null'</course_id>
+        <credit_hours>6</credit_hours>
+    </asda>
+    <asda>
+        <course_name>'null'</course_name>
+        <course_id>'null'</course_id>
+        <credit_hours>6</credit_hours>
+    </asda>
+    <asda>
+        <course_name>'null'</course_name>
+        <course_id>'HS101'</course_id>
+        <credit_hours>0</credit_hours>
+    </asda>
+</courses>

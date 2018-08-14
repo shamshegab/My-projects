@@ -1,0 +1,5 @@
+<!ELEMENT Person (Age,name,height,;,)>
+<!ELEMENT Age EMPTY>
+<!ELEMENT name EMPTY>
+<!ELEMENT height EMPTY>
+<!ELEMENT ; EMPTY>

@@ -1,0 +1,5 @@
+<!ELEMENT table (Name,ID,Course)>
+<!ELEMENT zombo EMPTY>
+<!ELEMENT varchar EMPTY>
+<!ELEMENT int EMPTY>
+<!ELEMENT varchar EMPTY>

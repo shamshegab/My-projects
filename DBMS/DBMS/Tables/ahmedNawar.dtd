@@ -1,0 +1,5 @@
+<!ELEMENT table (firstName,lastName,job)>
+<!ELEMENT ahmedNawar EMPTY>
+<!ELEMENT varchar EMPTY>
+<!ELEMENT varchar EMPTY>
+<!ELEMENT varchar EMPTY>

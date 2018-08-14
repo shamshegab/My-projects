@@ -1,0 +1,4 @@
+<!ELEMENT table (first,lastName)>
+<!ELEMENT neww EMPTY>
+<!ELEMENT varchar EMPTY>
+<!ELEMENT varchar EMPTY>

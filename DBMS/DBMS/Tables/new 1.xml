@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE MyTable SYSTEM "MyTable.dtd">
+<MyTable>
+  <root>
+    <firstName>changed</firstName>
+    <lastName>Sherif</lastName>
+    <address>Smoha</address>
+    <city>USA</city>
+    <age>11</age>
+  </root>
+  <root>
+    <firstName>changed</firstName>
+    <lastName>Alfred</lastName>
+    <address>Smoha</address>
+    <city>USA</city>
+    <age>2222</age>
+  </root>
+  <root>
+    <firstName>changed</firstName>
+    <lastName>Alfred</lastName>
+    <address>Smoha</address>
+    <city>USA</city>
+    <age>2222</age>
+  </root>
+  <root>
+    <firstName></firstName>
+    <lastName>pppp</lastName>
+    <address>ba7r</address>
+    <city>hawaii</city>
+    <age>11</age>
+  </root></MyTable>

@@ -1,0 +1,4 @@
+<!ELEMENT newTable (firstName,city,age)>
+<!ELEMENT firstName EMPTY>
+<!ELEMENT city EMPTY>
+<!ELEMENT age EMPTY>

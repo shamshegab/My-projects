@@ -1,0 +1,11 @@
+ PROGRAM BASICS
+ VAR
+  X,Ba,Z,C,B,Aasd,Y,D
+ BEGIN
+READ(X,Ba,Y);
+ Z := (X+Ba);
+ Y := (X+ Z);
+ C := (C + B)+D;
+ Z :=((Aasd+B)+(C+D))+Y;
+WRITE(Z,Y,C);
+ END.
